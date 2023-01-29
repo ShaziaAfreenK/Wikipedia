@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>simple wikipedia.org</title>
+    </head>
+    <body>
+    <div>
+        <img src="./images/wikipedia.png" alt="logo" />
+         <H2>WIKIPEDIA</H2>  
+         <H4><i>Simple english</i></H4>
+         <form>
+            <input type="text" placeholder="Search Wikipedia" /> 
+         </form>
+    </div>
+
+    <div>
+        <hr>
+        <h1>WELCOME TO WIKIPEDIA</h1>
+        <hr>
+        <h3><bold>About Wikipedia</bold></h3>
+        <p>
+            This is the front page of the <a href="https://simple.wikipedia.org/wiki/Simple_English_Wikipedia"><b>Simple English Wikipedia.</a> <i>Wikipedias </i></b>are places where people work together to write <a href="https://simple.wikipedia.org/wiki/Encyclopedia"> encyclopedias </a>in different languages. We use Simple English words and grammar here. The Simple English Wikipedia is for everyone! That includes children and adults who are learning English. There are 223,660 articles on the Simple English Wikipedia. All of the pages are free to use. They have all been published under both the <i>Creative Commons Attribution/Share-Alike License 3.0 </i>and the <i>GNU Free Documentation License.</i> You can help here! You may change these pages and make new pages. Read the help pages and other good pages to learn how to write pages here. If you need help, you may ask questions at Simple talk.
+        </p>
+    </div>
+    <hr>
+    <div>
+        <h3>When writing articles here:</h3>
+        <ul>
+            <li><b>Use Basic English words and shorter sentences.</b> This allows people to understand complex terms or phrases.</li>
+            <li><b>Write good pages. </b>The best encyclopedia pages have useful, well-written information.</li>
+            <li><b>Use the pages to learn and teach.</b> These pages can help people learn English. You can also use them to make a new Wikipedia to help other people.</li>
+            <li><b>Simple does not mean short.</b> Writing in Simple English means that simple words are used. It does not mean readers want basic information. Articles do not have to be short to be simple; expand articles, add details, but use basic vocabulary.</li>
+            <li><b>Be bold! </b>Your article does not have to be perfect, because other editors will fix it and make it better. And most importantly, do not be afraid to start and make articles better yourself.</li>
+        </ul>
+    </div>
+    <hr>
+    <div>
+        <h3>Selected Article</h3>
+        <img src="./images/W.jpg" alt="CONTENT" />
+        <P>
+            <b>Commodore Nutt </b>(April 1, 1848 – May 25, 1881) was an American entertainer. He was born <b>George Washington Morrison Nutt </b>in New Hampshire. He was a midget. In 1861, he was touring New England with a circus when P. T. Barnum hired him to appear at the American Museum in New York City. Barnum gave Nutt the stage name Commodore Nutt, a wardrobe that included naval uniforms, and a miniature carriage in the shape of an English walnut. Nutt became one of the Museum's major attractions.  
+        </P>
+        <br>
+        <p><a href="https://simple.wikipedia.org/wiki/Commodore_Nutt"> more..</a></p>
+        <p><b><a href="https://simple.wikipedia.org/wiki/Wikipedia:Very_good_articles"> Other very good articles</a> </b></p>
+        <p><b><a href="https://simple.wikipedia.org/wiki/Wikipedia:Proposed_very_good_articles"> Proposals </a></b></p>
+        <b><a href="https://simple.wikipedia.org/wiki/Wikipedia:Requirements_for_very_good_articles"> Requirements</a></b>
+    </div>
+    </body>
+</html>
